@@ -12,7 +12,6 @@ public class PassGen {
     private JComboBox lengthBox;
 
     public PassGen() {
-        //String[] options = {"Numbers Only", "Characters Only", "Numbers & Characters", "Numbers & Special Characters"};
         String bigChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String smallChars = "abcdefghijklmnopqrstuvwxyz";
         String numbers = "0123456789";
